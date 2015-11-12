@@ -1,0 +1,11 @@
+//Get Project
+git clone [url]
+
+//Update Project
+git pull [url]
+
+//Save Changes (local)
+git commit -a -m "some message"
+
+//Save Changes (Online)
+git push [url]
